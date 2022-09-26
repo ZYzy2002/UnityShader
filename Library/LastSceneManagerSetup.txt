@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/3may/May Post Process.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
